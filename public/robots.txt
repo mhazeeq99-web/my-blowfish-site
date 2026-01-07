@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mhazeeq99-web.github.io/my-blowfish-site/sitemap.xml
