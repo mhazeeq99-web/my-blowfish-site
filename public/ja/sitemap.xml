@@ -83,13 +83,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/my-blowfish-site/es/"
+      hreflang="pt-br"
+      href="http://localhost:1313/my-blowfish-site/pt-br/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/my-blowfish-site/pt-br/"
+      hreflang="es"
+      href="http://localhost:1313/my-blowfish-site/es/"
     />
     <xhtml:link
       rel="alternate"
@@ -183,13 +183,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/my-blowfish-site/es/series/"
+      hreflang="pt-br"
+      href="http://localhost:1313/my-blowfish-site/pt-br/series/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/my-blowfish-site/pt-br/series/"
+      hreflang="es"
+      href="http://localhost:1313/my-blowfish-site/es/series/"
     />
     <xhtml:link
       rel="alternate"

@@ -8,13 +8,13 @@ title = "MY RUNNER DOCUMENT"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/blowfish_logo_transparent.png"
+  logo = "img/runner_logo_transparent.png"
   description = "Fast, reliable document delivery across Peninsular Malaysia."
 
 [params.author]
   name = "MY Runner Document"
   email = "nuno@n9o.xyz"
-  image = "img/blowfish_logo.png"
+  image = "img/runner_logo.png"
   headline = "Fast, reliable document delivery across Peninsular Malaysia."
   bio = "Fast, reliable document delivery across Peninsular Malaysia."
   links = [
