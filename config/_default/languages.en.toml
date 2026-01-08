@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "MY RUNNER DOCUMENT"
 
 [params]
   displayName = "English"
@@ -9,14 +9,14 @@ title = "Blowfish"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "img/blowfish_logo_transparent.png"
-  description = "A powerful, lightweight theme for Hugo."
+  description = "Fast, reliable document delivery across Peninsular Malaysia."
 
 [params.author]
-  name = "Blowfish"
+  name = "MY Runner Document"
   email = "nuno@n9o.xyz"
   image = "img/blowfish_logo.png"
-  headline = "A powerful, lightweight theme for Hugo."
-  bio = "A powerful, lightweight theme for Hugo."
+  headline = "Fast, reliable document delivery across Peninsular Malaysia."
+  bio = "Fast, reliable document delivery across Peninsular Malaysia."
   links = [
     { x-twitter = "https://twitter.com/burufugu" },
     { github = "https://github.com/nunocoracao/blowfish" },

@@ -157,7 +157,7 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   # token = "XXXXXX"
   # enableTrackEvent = false
 
-[buymeacoffee]
+#[buymeacoffee]
   identifier = "nunocoracao"
   globalWidget = true
   globalWidgetMessage = ""
