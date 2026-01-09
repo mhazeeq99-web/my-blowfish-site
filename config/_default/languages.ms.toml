@@ -1,0 +1,23 @@
+languageCode = "ms-MY"
+languageName = "Bahasa Melayu"
+weight = 1
+title = "MY RUNNER DOCUMENT"
+
+[params]
+  displayName = "Bahasa Melayu"
+  isoCode = "ms"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/runner_logo_transparent.png"
+  description = "Servis penghantaran dokumen pantas dan dipercayai di seluruh Semenanjung Malaysia."
+
+[params.author]
+  name = "MY Runner Document"
+  email = "nuno@n9o.xyz"
+  image = "img/runner_logo.png"
+  headline = "Servis penghantaran dokumen pantas dan dipercayai di seluruh Semenanjung Malaysia."
+  bio = "Kami membantu individu dan syarikat menghantar dokumen penting dengan cepat, selamat dan teratur."
+  links = [
+    { x-twitter = "https://twitter.com/burufugu" },
+    { github = "https://github.com/nunocoracao/blowfish" },
+  ]
