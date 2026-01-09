@@ -44,8 +44,7 @@ Tiada aplikasi. Tiada pendaftaran diperlukan.
 
 ## Hubungi Kami
 
-<a href="https://wa.me/601154220969?text=Hai%20saya%20ingin%20menggunakan%20perkhidmatan%20penghantaran%20dokumen%20anda." target="_blank" class="button">
-📱 WhatsApp Sekarang
-</a>
 
-📧 Emel: **moviqueservices@gmail.com**
+{{< button href="https://wa.me/601154220969?text=Hi%20I%20would%20like%20to%20use%20your%20document%20delivery%20service." >}}WhatsApp Now{{< /button >}}
+
+📧 Email: **moviqueservices@gmail.com**

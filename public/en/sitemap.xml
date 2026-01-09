@@ -48,21 +48,6 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/my-blowfish-site/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="ms-MY"
-      href="http://localhost:1313/my-blowfish-site/ms/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/my-blowfish-site/"
-    />
-  </url>
-  <url>
     <loc>http://localhost:1313/my-blowfish-site/services/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -75,6 +60,21 @@
       rel="alternate"
       hreflang="en"
       href="http://localhost:1313/my-blowfish-site/services/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/my-blowfish-site/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="ms-MY"
+      href="http://localhost:1313/my-blowfish-site/ms/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/my-blowfish-site/"
     />
   </url>
   <url>

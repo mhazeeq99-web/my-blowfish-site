@@ -1,57 +1,50 @@
 ---
-title: "Our Services"
-description: "Professional document delivery, summons service and runner services in Malaysia"
+title: "Runner Document"
+description: "Professional document delivery service across Peninsular Malaysia"
 ---
 
-We provide **professional, fast, and reliable delivery services** to help individuals and businesses manage important matters smoothly and without stress.
+## What We Do
 
----
+Runner Document is a fast document delivery service for individuals and companies that require urgent handling.
 
-## Services Offered
-
-### 🚨 Legal Document / Summons Service (According to Guidelines)
-
-![Legal document and summons delivery service in Johor, Ipoh, Penang and Melaka](serahan-saman-johor-ipoh-penang-melaka.png)
-
-A **proper and compliant summons delivery service**, carried out carefully, ethically, and in accordance with established guidelines and procedures.
+We manage:
+- Printing of PDF / Word documents  
+- Delivery of contracts & tenders  
+- Submission of official corporate documents  
 
 ---
 
-### 📄 Document Delivery Across Peninsular Malaysia
+## Service Coverage
 
-![Fast document delivery service in Penang, Kuala Lumpur, Selangor and Johor](penghantaran-dokumen-penang-kl-selangor-johor.png)
+Our services cover:
 
-Delivery of **various types of important documents** across Peninsular Malaysia **within up to 24 hours**, depending on location and requirements.
-
----
-
-### 🔧 Other Services (Case-by-Case Basis)
-
-![Runner service for delivery of important documents, cakes and surprise flowers](runner-bunga-kek-dokumen-penting.png)
-
-I also provide **additional services** based on the suitability and nature of each case, with a flexible and practical approach.
-
-These include:
-- Delivery of **important documents**
-- **Cake delivery** for events or surprises
-- **Surprise flower delivery**
-- Other runner services based on discussion and suitability
+Perlis, Kedah, Penang, Perak, Selangor, Kuala Lumpur, Negeri Sembilan, Melaka, and Johor.
 
 ---
 
-## Why Choose My Service?
+## How to Place an Order
 
-- ✅ Fast & on-time  
-- ✅ Follows proper procedures and guidelines  
-- ✅ Clear communication & easy to deal with  
-- ✅ Reliable for important matters  
-- ✅ Professional & responsible approach  
+1. Send your documents via WhatsApp  
+2. Provide pickup and destination addresses  
+3. We print and deliver  
+4. Proof of delivery will be provided  
+
+No apps. No registration required.
 
 ---
 
-## Contact Me
+## Why Runner Document
 
-Contact me to discuss your requirements.  
-I’m ready to help ensure your matters are **completed quickly, safely, and in an organized manner**.
+- Fast response via WhatsApp  
+- Ideal for urgent matters  
+- Document-focused service  
+- Transparent and reasonable pricing  
 
-{{< button href="https://wa.me/601154220969" >}}WhatsApp Now{{< /button >}}
+---
+
+## Contact Us
+
+
+{{< button href="https://wa.me/601154220969?text=Hi%20I%20would%20like%20to%20use%20your%20document%20delivery%20service." >}}WhatsApp Now{{< /button >}}
+
+📧 Email: **moviqueservices@gmail.com**
