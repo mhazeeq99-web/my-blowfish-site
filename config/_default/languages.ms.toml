@@ -18,6 +18,6 @@ title = "MY RUNNER DOCUMENT"
   headline = "Servis penghantaran dokumen pantas dan dipercayai di seluruh Semenanjung Malaysia."
   bio = "Kami membantu individu dan syarikat menghantar dokumen penting dengan cepat, selamat dan teratur."
   links = [
-    { x-twitter = "https://twitter.com/burufugu" },
-    { github = "https://github.com/nunocoracao/blowfish" },
+    { whatsapp = "https://wa.me/601154220969" }
+    { linkedin = "https://www.linkedin.com/company/movique-services/" },
   ]

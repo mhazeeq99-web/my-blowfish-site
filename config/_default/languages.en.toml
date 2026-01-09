@@ -18,6 +18,6 @@ title = "MY RUNNER DOCUMENT"
   headline = "Fast, reliable document delivery across Peninsular Malaysia."
   bio = "Fast, reliable document delivery across Peninsular Malaysia."
   links = [
-    { x-twitter = "https://twitter.com/burufugu" },
-    { github = "https://github.com/nunocoracao/blowfish" },
+    { whatsapp = "https://wa.me/601154220969" }
+    { linkedin = "https://www.linkedin.com/company/movique-services/" },
   ]
