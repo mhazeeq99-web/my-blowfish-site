@@ -3,253 +3,253 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/my-blowfish-site/it/authors/</loc>
+    <loc>https://mhazeeq99-web.github.io/my-blowfish-site/it/authors/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/my-blowfish-site/authors/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/my-blowfish-site/fr/authors/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/fr/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="http://localhost:1313/my-blowfish-site/de/authors/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/de/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-pt"
-      href="http://localhost:1313/my-blowfish-site/pt-pt/authors/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/pt-pt/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="http://localhost:1313/my-blowfish-site/es/authors/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/es/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="http://localhost:1313/my-blowfish-site/pt-br/authors/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/pt-br/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="http://localhost:1313/my-blowfish-site/ja/authors/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/ja/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="http://localhost:1313/my-blowfish-site/zh-cn/authors/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/zh-cn/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/my-blowfish-site/it/authors/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/it/authors/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/my-blowfish-site/it/</loc>
+    <loc>https://mhazeeq99-web.github.io/my-blowfish-site/it/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/my-blowfish-site/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/my-blowfish-site/fr/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/fr/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="http://localhost:1313/my-blowfish-site/de/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/de/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-pt"
-      href="http://localhost:1313/my-blowfish-site/pt-pt/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/pt-pt/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="http://localhost:1313/my-blowfish-site/pt-br/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/pt-br/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="http://localhost:1313/my-blowfish-site/es/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/es/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="http://localhost:1313/my-blowfish-site/ja/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/ja/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="http://localhost:1313/my-blowfish-site/zh-cn/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/zh-cn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/my-blowfish-site/it/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/it/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/my-blowfish-site/it/categories/</loc>
+    <loc>https://mhazeeq99-web.github.io/my-blowfish-site/it/categories/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/my-blowfish-site/categories/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/my-blowfish-site/fr/categories/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/fr/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="http://localhost:1313/my-blowfish-site/de/categories/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/de/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-pt"
-      href="http://localhost:1313/my-blowfish-site/pt-pt/categories/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/my-blowfish-site/pt-br/categories/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/pt-pt/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="http://localhost:1313/my-blowfish-site/es/categories/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/es/categories/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/pt-br/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="http://localhost:1313/my-blowfish-site/ja/categories/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/ja/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="http://localhost:1313/my-blowfish-site/zh-cn/categories/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/zh-cn/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/my-blowfish-site/it/categories/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/it/categories/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/my-blowfish-site/it/series/</loc>
+    <loc>https://mhazeeq99-web.github.io/my-blowfish-site/it/series/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/my-blowfish-site/series/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/my-blowfish-site/fr/series/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/fr/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="http://localhost:1313/my-blowfish-site/de/series/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/de/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-pt"
-      href="http://localhost:1313/my-blowfish-site/pt-pt/series/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/my-blowfish-site/pt-br/series/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/pt-pt/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="http://localhost:1313/my-blowfish-site/es/series/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/es/series/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/pt-br/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="http://localhost:1313/my-blowfish-site/ja/series/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/ja/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="http://localhost:1313/my-blowfish-site/zh-cn/series/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/zh-cn/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/my-blowfish-site/it/series/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/it/series/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/my-blowfish-site/it/tags/</loc>
+    <loc>https://mhazeeq99-web.github.io/my-blowfish-site/it/tags/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/my-blowfish-site/tags/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/my-blowfish-site/fr/tags/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/fr/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="http://localhost:1313/my-blowfish-site/de/tags/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/de/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-pt"
-      href="http://localhost:1313/my-blowfish-site/pt-pt/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/my-blowfish-site/es/tags/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/pt-pt/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="http://localhost:1313/my-blowfish-site/pt-br/tags/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/pt-br/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/es/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="http://localhost:1313/my-blowfish-site/ja/tags/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/ja/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="http://localhost:1313/my-blowfish-site/zh-cn/tags/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/zh-cn/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="http://localhost:1313/my-blowfish-site/it/tags/"
+      href="https://mhazeeq99-web.github.io/my-blowfish-site/it/tags/"
     />
   </url>
 </urlset>
