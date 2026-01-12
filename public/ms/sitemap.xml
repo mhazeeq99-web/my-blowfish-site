@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/my-blowfish-site/ms/tags/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/my-blowfish-site/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ms-MY"
+      href="http://localhost:1313/my-blowfish-site/ms/tags/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/my-blowfish-site/ms/authors/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -90,21 +105,6 @@
       rel="alternate"
       hreflang="ms-MY"
       href="http://localhost:1313/my-blowfish-site/ms/series/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/my-blowfish-site/ms/tags/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/my-blowfish-site/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ms-MY"
-      href="http://localhost:1313/my-blowfish-site/ms/tags/"
     />
   </url>
 </urlset>

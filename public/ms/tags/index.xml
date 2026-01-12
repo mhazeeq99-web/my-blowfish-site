@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on MY RUNNER DOCUMENT</title>
+    <title>MY RUNNER DOCUMENT</title>
     <link>http://localhost:1313/my-blowfish-site/ms/tags/</link>
-    <description>Recent content in Tags on MY RUNNER DOCUMENT</description>
+    <description>Recent content on MY RUNNER DOCUMENT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ms-MY</language>
     <managingEditor>nuno@n9o.xyz (MY Runner Document)</managingEditor>
