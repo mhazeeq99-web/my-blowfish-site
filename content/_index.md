@@ -5,7 +5,7 @@ description: "Professional document delivery service across Peninsular Malaysia"
 
 ## What We Do
 
-MY Runner Document by Movique Servces (003812531-W) is a fast document delivery service for individuals and companies that require urgent handling.
+Runner Document by  is a fast document delivery service for individuals and companies that require urgent handling.
 
 We manage:
 - Printing of PDF / Word documents  
@@ -48,3 +48,5 @@ No apps. No registration required.
 {{< button href="https://wa.me/601154220969?text=Hi%20I%20would%20like%20to%20use%20your%20document%20delivery%20service." >}}WhatsApp Now{{< /button >}}
 
 📧 Email: **moviqueservices@gmail.com**
+
+Movique Services (003812531-W)
