@@ -5,7 +5,7 @@ description: "Perkhidmatan penghantaran dokumen profesional di seluruh Semenanju
 
 ## Apa Kami Buat
 
-MY Runner Document oleh Movique Services (003812531-W) menyediakan perkhidmatan penghantaran dokumen yang pantas untuk individu dan syarikat yang memerlukan urusan segera.
+Runner Document menyediakan perkhidmatan penghantaran dokumen yang pantas untuk individu dan syarikat yang memerlukan urusan segera.
 
 Kami menguruskan:
 - Percetakan dokumen PDF / Word  
@@ -48,3 +48,5 @@ Tiada aplikasi. Tiada pendaftaran diperlukan.
 {{< button href="https://wa.me/601154220969?text=Hi%20I%20would%20like%20to%20use%20your%20document%20delivery%20service." >}}WhatsApp Now{{< /button >}}
 
 📧 Email: **moviqueservices@gmail.com**
+
+Movique Services (003812531-W)
