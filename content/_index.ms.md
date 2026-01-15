@@ -49,7 +49,7 @@ Tiada aplikasi. Tiada pendaftaran diperlukan.
 
 📧 Email: **moviqueservices@gmail.com**
 
-Movique Services (003812531-W)
-B-10-3, Residensi Sungai Udang,
-52200, Segambut,
-W.P. Kuala Lumpur, Malaysia
+Movique Services (003812531-W)  
+B-10-3, Residensi Sungai Udang,  
+52200, Segambut,  
+W.P. Kuala Lumpur, Malaysia  
