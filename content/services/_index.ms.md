@@ -46,7 +46,7 @@ Antara perkhidmatan termasuk:
 - ✅ Komunikasi jelas & mudah berurusan  
 - ✅ Boleh dipercayai untuk urusan penting  
 - ✅ Pendekatan profesional & bertanggungjawab  
-- ✅ Meliputi **Perlis, Kedah, Penang, Perak, Selangor, Kuala Lumpur, Negeri Sembilan, Melaka, and Johor.**
+- ✅ Meliputi **Perlis, Kedah, Penang, Perak, Selangor, Kuala Lumpur, Negeri Sembilan, Melaka, and Johor.**  
 ---
 
 ## Hubungi Kami
