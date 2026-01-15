@@ -45,7 +45,6 @@ Antara perkhidmatan termasuk:
 - ✅ Mematuhi prosedur dan garis panduan  
 - ✅ Komunikasi jelas & mudah berurusan  
 - ✅ Boleh dipercayai untuk urusan penting  
-- ✅ Pendekatan profesional & bertanggungjawab  
 - ✅ Meliputi **Perlis, Kedah, Penang, Perak, Selangor, Kuala Lumpur, Negeri Sembilan, Melaka, and Johor.**  
 ---
 
