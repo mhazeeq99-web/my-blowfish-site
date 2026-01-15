@@ -45,7 +45,10 @@ Tiada aplikasi. Tiada pendaftaran diperlukan.
 ## Hubungi Kami
 
 
-{{< button href="https://wa.me/601154220969?text=Hi%20I%20would%20like%20to%20use%20your%20document%20delivery%20service." >}}WhatsApp Now{{< /button >}}
+<a href="https://wa.me/601154220969?text=Hi%20I%20would%20like%20to%20use%20your%20document%20delivery%20service."
+   style="background:#25D366;color:#fff;padding:12px 20px;border-radius:9999px;text-decoration:none;font-weight:600;">
+   WhatsApp Now
+</a>
 
 📧 Email: **moviqueservices@gmail.com**
 
