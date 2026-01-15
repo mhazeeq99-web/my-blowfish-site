@@ -19,7 +19,7 @@
 [[main]]
   name = "Pertanyaan"
   pageRef = "inquiry"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Perkhidmatan"
@@ -27,9 +27,9 @@
   weight = 20
 
 [[main]]
-  name = "Tag"
-  pageRef = "tags"
-  weight = 40
+  name = "Tentang Kami"
+  pageRef = "aboutus"
+  weight = 30
 
 
 # -- Footer Menu --
