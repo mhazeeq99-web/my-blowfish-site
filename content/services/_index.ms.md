@@ -3,7 +3,7 @@ title: "Perkhidmatan Kami"
 description: "Perkhidmatan penghantaran dokumen, saman dan runner profesional di Malaysia"
 ---
 
-Saya menyediakan **perkhidmatan penghantaran yang profesional, pantas dan boleh dipercayai** untuk membantu individu serta perniagaan menguruskan urusan penting dengan lancar dan tanpa tekanan.
+Kami menyediakan **perkhidmatan penghantaran yang profesional, pantas dan boleh dipercayai** untuk membantu individu serta perniagaan menguruskan urusan penting dengan lancar dan tanpa tekanan.
 
 ---
 
