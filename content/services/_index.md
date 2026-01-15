@@ -46,7 +46,7 @@ These include:
 - ✅ Clear communication & easy to deal with  
 - ✅ Reliable for important matters  
 - ✅ Professional & responsible approach  
-
+- ✅ Coverage includes **Perlis, Kedah, Penang, Perak, Selangor, Kuala Lumpur, Negeri Sembilan, Melaka, and Johor.**  
 ---
 
 ## Contact Me
