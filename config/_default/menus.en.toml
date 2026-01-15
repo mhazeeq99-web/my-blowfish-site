@@ -19,7 +19,7 @@
 [[main]]
   name = "Inquiry"
   pageRef = "inquiry"
-  weight = 20
+  weight = 30
 
 #[[main]]
 #  name = "Parent"
@@ -54,9 +54,9 @@
   weight = 10
 
 [[main]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 30
+  name = "About Us"
+  pageRef = "aboutus"
+  weight = 20
 
 
 # -- Footer Menu --
