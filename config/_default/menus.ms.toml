@@ -28,7 +28,7 @@
 
 [[main]]
   name = "Tentang Kami"
-  pageRef = "aboutus"
+  pageRef = "about"
   weight = 30
 
 
