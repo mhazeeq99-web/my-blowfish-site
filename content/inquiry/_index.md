@@ -22,9 +22,6 @@ Please fill in the information below. All inquiries will be responded to.
   <label>Email</label><br>
   <input type="email" name="email"><br><br>
 
-  <label>Recipient Address</label><br>
-  <textarea name="address" rows="4"></textarea><br><br>
-
   <label>Message / Additional Details</label><br>
   <textarea name="message" rows="4"></textarea><br><br>
 
