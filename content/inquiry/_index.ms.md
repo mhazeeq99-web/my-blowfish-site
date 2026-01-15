@@ -22,9 +22,6 @@ Sila isi maklumat di bawah. Semua pertanyaan akan dibalas secepat mungkin.
   <label>Emel</label><br>
   <input type="email" name="email"><br><br>
 
-  <label>Alamat Penerima</label><br>
-  <textarea name="address" rows="4"></textarea><br><br>
-
   <label>Mesej / Maklumat Tambahan</label><br>
   <textarea name="message" rows="4"></textarea><br><br>
 
