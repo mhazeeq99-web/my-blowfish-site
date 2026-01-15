@@ -45,11 +45,17 @@ No apps. No registration required.
 ## Contact Us
 
 
-{{< button href="https://wa.me/601154220969?text=Hi%20I%20would%20like%20to%20use%20your%20document%20delivery%20service." >}}WhatsApp Now{{< /button >}}
+<a href="https://wa.me/601154220969?text=Hi%20I%20would%20like%20to%20use%20your%20document%20delivery%20service."
+   style="background:#25D366;color:#fff;padding:12px 20px;border-radius:9999px;text-decoration:none;font-weight:600;">
+   WhatsApp Now
+</a>
 
 📧 Email: **moviqueservices@gmail.com**
 
-Movique Services (003812531-W)
-B-10-3, Residensi Sungai Udang,
-52200, Segambut,
-W.P. Kuala Lumpur, Malaysia
+<address>
+<strong>Movique Services (003812531-W)</strong><br>
+B-10-3, Residensi Sungai Udang<br>
+52200 Segambut<br>
+W.P. Kuala Lumpur<br>
+Malaysia
+</address>
