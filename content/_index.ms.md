@@ -4,14 +4,14 @@ title: "Servis Runner Document di Malaysia"
 
 ## Perkhidmatan Penghantaran Dokumen Perundangan, Korporat & Umum
 
-**MY Runner Document** menyediakan perkhidmatan document runner profesional di Malaysia untuk individu, firma guaman dan syarikat.
+**MY Runner Document Service** menyediakan perkhidmatan runner document profesional di Malaysia untuk individu, firma guaman dan syarikat.
 
 Kami mengendalikan perkhidmatan **serahan dan penyampaian dokumen** termasuk:
-- **Percetakan dokumen PDF / Word**
-- **Penghantaran kontrak & dokumen tender**
-- **Penyerahan dokumen rasmi korporat**
-- **Perkhidmatan runner perundangan**
-- **Lain-lain perkhidmatan berkaitan dokumen**
+- Percetakan dokumen PDF / Word
+- Penghantaran kontrak & dokumen tender
+- Penyerahan dokumen rasmi korporat
+- Perkhidmatan runner perundangan
+- Lain-lain perkhidmatan berkaitan dokumen
 
 Semua perkhidmatan dilaksanakan dengan **selamat, beretika dan mematuhi prosedur yang ditetapkan**.
 
