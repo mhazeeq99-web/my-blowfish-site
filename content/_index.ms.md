@@ -25,7 +25,7 @@ Perlis, Kedah, Pulau Pinang, Perak, Selangor, Kuala Lumpur, Negeri Sembilan, Mel
 
 ## Cara Membuat Tempahan
 
-1. Hantar dokumen anda melalui WhatsApp  
+1. Hantar dokumen anda melalui WhatsApp, atau;  
 2. Berikan alamat pengambilan dan destinasi  
 3. Kami akan cetak dan hantar dokumen tersebut  
 4. Bukti penghantaran akan diberikan  
