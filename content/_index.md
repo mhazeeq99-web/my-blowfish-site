@@ -18,7 +18,7 @@ We handle the delivery and service of
 
 --- 
 
-We services safely, ethically, and in full compliance with established procedures.   
+**We services safely, ethically, and in full compliance with established procedures.**   
 
 ---
 
