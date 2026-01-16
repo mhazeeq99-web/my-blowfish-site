@@ -5,7 +5,10 @@ description: "Perkhidmatan penghantaran dokumen profesional di seluruh Semenanju
 
 ## Apa Kami Buat
 
-Runner Document menyediakan perkhidmatan penghantaran dokumen yang pantas untuk individu dan syarikat yang memerlukan urusan segera.
+MY Runner Document menyediakan perkhidmatan document runner profesional di Malaysia untuk individu, firma guaman dan syarikat.
+Kami mengendalikan serahan dokumen mahkamah, saman, SSM dan dokumen korporat dengan selamat, beretika dan mengikut prosedur.  
+
+Runner Document menyediakan perkhidmatan penghantaran dokumen yang pantas untuk individu dan syarikat yang memerlukan urusan segera.  
 
 Kami menguruskan:
 - Percetakan dokumen PDF / Word  
