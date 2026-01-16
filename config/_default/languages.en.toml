@@ -12,11 +12,11 @@ title = "Professional Runner Document Services in Malaysia | MY Runner Document"
   description = "Fast, reliable document delivery across Peninsular Malaysia."
 
 [params.author]
-  name = "MY Runner Document"
+  name = "MY Runner Document Service"
   email = "nuno@n9o.xyz"
   image = "img/runner_logo.png"
-  headline = "Fast, reliable document delivery across Peninsular Malaysia."
-  bio = "Fast, reliable document delivery across Peninsular Malaysia."
+  headline = "Professional Document Runner Services Across Malaysia"
+  bio = "Professional Document Runner Services Across Malaysia"
   links = [
     { whatsapp = "https://wa.me/601154220969" },
     { linkedin = "https://www.linkedin.com/company/movique-services/" }
