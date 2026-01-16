@@ -9,14 +9,14 @@ title = "Professional Runner Document Servis di Malaysia | MY Runner Document"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "img/runner_logo_transparent.png"
-  description = "Servis penghantaran dokumen pantas dan dipercayai di seluruh Semenanjung Malaysia."
+  description = "Perkhidmatan Runner Document Profesional Seluruh Malaysia"
 
 [params.author]
   name = "MY Runner Document"
   email = "nuno@n9o.xyz"
   image = "img/runner_logo.png"
-  headline = "Servis penghantaran dokumen pantas dan dipercayai di seluruh Semenanjung Malaysia."
-  bio = "Kami membantu individu dan syarikat menghantar dokumen penting dengan cepat, selamat dan teratur."
+  headline = "Perkhidmatan Runner Document Profesional Seluruh Malaysia"
+  bio = "Perkhidmatan Runner Document Profesional Seluruh Malaysia"
   links = [
     { whatsapp = "https://wa.me/601154220969" },
     { linkedin = "https://www.linkedin.com/company/movique-services/" }
