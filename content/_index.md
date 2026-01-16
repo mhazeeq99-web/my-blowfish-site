@@ -9,7 +9,7 @@ title: "Document Runner Service in Malaysia"
 We handle the delivery and service of  
 - **Printing of PDF / Word documents**
 - **Delivery of contracts & tenders**
-- **Submission of official corporate** documents
+- **Submission of official corporate documents**
 - **Legal runner services**  
 - **Others**  
 
