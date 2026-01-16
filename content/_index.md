@@ -1,18 +1,19 @@
 ---
 title: "Document Runner Service in Malaysia"
-description: "Professional document delivery service across Peninsular Malaysia"  
-
 ---
 
-## Nationwide Document Runner Services Legal Corporate & General Document Delivery
+## Nationwide Runner Document Services Legal Corporate & General Document Delivery
 
-**MY Runner Document** provides professional document runner services in Malaysia for individuals, law firms, and companies.
-We handle the delivery and service of **court documents, summons, SSM filings, and corporate documents** safely, ethically, and in full compliance with established procedures. 
+**MY Runner Document** provides professional document runner services in Malaysia for individuals, law firms, and companies.  
 
-We manage:
-- Printing of PDF / Word documents  
-- Delivery of contracts & tenders  
-- Submission of official corporate documents  
+We handle the delivery and service of  
+- **Printing of PDF / Word documents**
+- **Delivery of contracts & tenders**
+- **Submission of official corporate** documents
+- **Legal runner services**  
+- **Others**  
+
+We services safely, ethically, and in full compliance with established procedures.   
 
 ---
 
@@ -24,23 +25,11 @@ Perlis, Kedah, Penang, Perak, Selangor, Kuala Lumpur, Negeri Sembilan, Melaka, a
 
 ---
 
-## How to Place an Order
+## How to place an Order
 
-1. Send your documents via WhatsApp or; 
-2. Provide pickup and destination addresses  
-3. We print and deliver  
-4. Proof of delivery will be provided  
+Just Whatsapp or Email us  
 
 No apps. No registration required.
-
----
-
-## Why Runner Document
-
-- Fast response via WhatsApp  
-- Ideal for urgent matters  
-- Document-focused service  
-- Transparent and reasonable pricing  
 
 ---
 
