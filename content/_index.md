@@ -50,7 +50,7 @@ No apps. No registration required.
 
 <address>
 <strong>Movique Services (003812531-W)</strong><br>
-B-10-3, Residensi Sungai Udang<br>
+B-10, Residensi Sungai Udang<br>
 52200 Segambut<br>
 W.P. Kuala Lumpur<br>
 Malaysia
