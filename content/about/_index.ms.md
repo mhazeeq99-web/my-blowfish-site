@@ -16,6 +16,6 @@ Setiap tugasan dilaksanakan dengan penuh tanggungjawab, ketepatan masa dan memat
 **Nama Entiti:** Movique Services  
 **No. SSM:** 003812531-W  
 **Alamat:**  
-B-10-3, Residensi Sungai Udang,  
+B-10, Residensi Sungai Udang,  
 52200 Segambut,  
 W.P. Kuala Lumpur, Malaysia
