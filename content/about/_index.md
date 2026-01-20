@@ -16,6 +16,6 @@ Every assignment is handled with responsibility, punctuality, and in accordance 
 **Legal Entity Name:** Movique Services  
 **SSM Registration No.:** 003812531-W  
 **Address:**  
-B-10-3, Residensi Sungai Udang,  
+B-10, Residensi Sungai Udang,  
 52200 Segambut,  
 Federal Territory of Kuala Lumpur, Malaysia
