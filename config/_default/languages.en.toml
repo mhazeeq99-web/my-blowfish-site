@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Professional Runner Document Services in Malaysia | MY Runner Document"
+title = "MY Runner Document | Professional Document Delivery Services in Malaysia"
 
 [params]
   displayName = "English"
@@ -9,14 +9,14 @@ title = "Professional Runner Document Services in Malaysia | MY Runner Document"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "img/runner_logo_transparent.png"
-  description = "Professional Runner Document Services Across Malaysia"
+  description = "Professional Document Delivery Services Across Malaysia"
 
 [params.author]
   name = "MY Runner Document Service"
   email = "nuno@n9o.xyz"
   image = "img/runner_logo.png"
-  headline = "Professional Runner Document Services Across Malaysia"
-  bio = "Professional Runner Document Services Across Malaysia"
+  headline = "Professional Document Delivery Services Across Malaysia"
+  bio = "Professional Document Delivery Services Across Malaysia"
   links = [
     { whatsapp = "https://wa.me/601154220969" },
     { linkedin = "https://www.linkedin.com/company/movique-services/" }
